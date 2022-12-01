@@ -42,12 +42,12 @@ const images = [
         original: 'img/Gallery/6-min.png',
         thumbnail: 'img/Gallery/6-min.png',
     },
-    {
-        original: 'img/Gallery/7-min.png',
-        thumbnail: 'img/Gallery/7-min.png',
-    },
-    {
-        original: 'img/Gallery/8-min.png',
-        thumbnail: 'img/Gallery/8-min.png',
-    },
+    // {
+    //     original: 'img/Gallery/7-min.png',
+    //     thumbnail: 'img/Gallery/7-min.png',
+    // },
+    // {
+    //     original: 'img/Gallery/8-min.png',
+    //     thumbnail: 'img/Gallery/8-min.png',
+    // },
 ];

@@ -107,19 +107,19 @@ function Navigation() {
                             about
                         </p>
                     </Link>
-                    <Link href={"/whitepaper"}>
+                    <Link href={"/doc"}>
                         <p
-                            className={`font-rubik flex justify-center items-center cursor-pointer text-white text-[14px] ${router.pathname === "/whitepaper" ? "font-bold" : "font-[300]"
-                                } capitalize h-full border-b-[3px] border-solid ${router.pathname === "/whitepaper" ? "border-white" : "border-transparent"
+                            className={`font-rubik flex justify-center items-center cursor-pointer text-white text-[14px] ${router.pathname === "/doc" ? "font-bold" : "font-[300]"
+                                } capitalize h-full border-b-[3px] border-solid ${router.pathname === "/doc" ? "border-white" : "border-transparent"
                                 } mb-6 `}
                         >
                             whitepaper
                         </p>
                     </Link>
-                    <Link href={"/pictures"}>
+                    <Link href={"/gallery"}>
                         <p
-                            className={`font-rubik flex justify-center items-center cursor-pointer text-white text-[14px] ${router.pathname === "/pictures" ? "font-bold" : "font-[300]"
-                                } capitalize h-full border-b-[3px] border-solid ${router.pathname === "/pictures" ? "border-[#8AD153]" : "border-transparent"
+                            className={`font-rubik flex justify-center items-center cursor-pointer text-white text-[14px] ${router.pathname === "/gallery" ? "font-bold" : "font-[300]"
+                                } capitalize h-full border-b-[3px] border-solid ${router.pathname === "/gallery" ? "border-[#8AD153]" : "border-transparent"
                                 }`}
                         >
                             pictures
