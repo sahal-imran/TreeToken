@@ -3,36 +3,36 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
     {
-        original: 'img/1.jpg',
-        thumbnail: 'img/1.jpg',
+        original: 'assets/1.jpg',
+        thumbnail: 'assets/1.jpg',
     },
     {
-        original: 'img/2.jpg',
-        thumbnail: 'img/2.jpg',
+        original: 'assets/2.jpg',
+        thumbnail: 'assets/2.jpg',
     },
     {
-        original: 'img/3.jpg',
-        thumbnail: 'img/3.jpg',
+        original: 'assets/3.jpg',
+        thumbnail: 'assets/3.jpg',
     },
     {
-        original: 'img/4.jpg',
-        thumbnail: 'img/4.jpg',
+        original: 'assets/4.jpg',
+        thumbnail: 'assets/4.jpg',
     },
     {
-        original: 'img/5.jpg',
-        thumbnail: 'img/5.jpg',
+        original: 'assets/5.jpg',
+        thumbnail: 'assets/5.jpg',
     },
     {
-        original: 'img/6.jpg',
-        thumbnail: 'img/6.jpg',
+        original: 'assets/6.jpg',
+        thumbnail: 'assets/6.jpg',
     },
     {
-        original: 'img/7.jpg',
-        thumbnail: 'img/7.jpg',
+        original: 'assets/7.jpg',
+        thumbnail: 'assets/7.jpg',
     },
     {
-        original: 'img/8.jpg',
-        thumbnail: 'img/8.jpg',
+        original: 'assets/8.jpg',
+        thumbnail: 'assets/8.jpg',
     },
 ];
 
