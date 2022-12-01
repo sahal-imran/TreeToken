@@ -18,12 +18,12 @@ function Hero() {
                             Be a part of us!
                         </p>
                         <div className="flex justify-center items-center lg:flex-row flex-col lg:mt-12 mt-6 ">
-                            <button className="capitalize whitespace-nowrap lg:w-[204px] w-[290px] h-[57px] text-[16px] leading-[19.36px] font-rubik font-[600] text-black border-none bg-[#8AD153] hover:bg-[#5da229] transition-all duration-[0.4s] cursor-pointer rounded-[12px] ">
+                            <a href='https://polygonscan.com/token/0xbb1f51cd96c1859adf7481d23dddae9812c9e3bf' target={"_blank"} rel="noreferrer" className="capitalize whitespace-nowrap lg:w-[204px] w-[290px] h-[57px] text-[16px] leading-[19.36px] font-rubik font-[600] text-black border-none bg-[#8AD153] hover:bg-[#5da229] transition-all duration-[0.4s] cursor-pointer rounded-[12px] flex justify-center items-center ">
                                 Buy
-                            </button>
-                            <button className="capitalize whitespace-nowrap lg:w-[204px] w-[290px] h-[57px] text-[16px] leading-[19.36px] font-rubik  font-[600] text-black border-none bg-[#8AD153] hover:bg-[#5da229] transition-all duration-[0.4s] cursor-pointer rounded-[12px] lg:mt-0 mt-4 lg:ml-5">
+                            </a>
+                            <a href='https://polygonscan.com/address/0x59ad95f5433a24c6fb13bdc8ad30de471f707a59' target={"_blank"} rel="noreferrer" className="capitalize whitespace-nowrap lg:w-[204px] w-[290px] h-[57px] text-[16px] leading-[19.36px] font-rubik  font-[600] text-black border-none bg-[#8AD153] hover:bg-[#5da229] transition-all duration-[0.4s] cursor-pointer rounded-[12px] lg:mt-0 mt-4 lg:ml-5 flex justify-center items-center">
                                 Donate
-                            </button>
+                            </a>
                         </div>
                     </div>
 
