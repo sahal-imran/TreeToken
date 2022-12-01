@@ -5,6 +5,7 @@ import { useRouter } from "next/router";
 import Drawer from "react-modern-drawer";
 import "react-modern-drawer/dist/index.css";
 import { Sling as Hamburger } from 'hamburger-react'
+import { BsTwitter } from 'react-icons/bs';
 
 function Navigation() {
     const router = useRouter();
@@ -67,11 +68,14 @@ function Navigation() {
                             <p
                                 className={`font-rubik flex justify-center items-center cursor-pointer text-white text-[14px] ${router.pathname === "/pictures" ? "font-bold" : "font-[300]"
                                     } capitalize h-full border-b-[3px] border-solid ${router.pathname === "/pictures" ? "border-[#8AD153]" : "border-transparent"
-                                    }`}
+                                    } lg:mr-8 mr-6`}
                             >
                                 pictures
                             </p>
                         </Link>
+                        <a target={"_blank"} rel="noreferrer" href="https://twitter.com/TreeTokende">
+                            <BsTwitter color='#8AD153' size={30} />
+                        </a>
                     </div>
                     <div className='lg:hidden block' >
                         <Hamburger toggled={isOpen} color="#8AD153" toggle={setIsOpen} />
@@ -121,6 +125,9 @@ function Navigation() {
                             pictures
                         </p>
                     </Link>
+                    <a target={"_blank"} className="mt-6" rel="noreferrer" href="https://twitter.com/TreeTokende">
+                            <BsTwitter color='white' size={30} />
+                        </a>
                 </div>
             </Drawer>
         </>
