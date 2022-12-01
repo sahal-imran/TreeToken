@@ -1,5 +1,5 @@
 import React from 'react';
-import PdfReader from '../../components/Whitepaper/pdfReader';
+import PdfReader from '../../components/Whitepaper/PdfReader';
 
 function index() {
   return (
