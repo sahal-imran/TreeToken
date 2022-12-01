@@ -1,5 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Microbe&display=swap");
+@import "~react-image-gallery/styles/css/image-gallery.css";
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,6 +10,9 @@
   padding: 0;
   margin: 0;
 }
-body{
-  background-color: #1F1E29;
+body {
+  background-color: #1f1e29;
+}
+.image-gallery-image{
+  max-height: 500px !important;
 }
