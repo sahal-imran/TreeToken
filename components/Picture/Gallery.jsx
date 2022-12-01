@@ -3,8 +3,8 @@ import ImageGallery from 'react-image-gallery';
 
 const images = [
     {
-        original: 'assets/1.jpg',
-        thumbnail: 'assets/1.jpg',
+        original: '../../public/assets/assets/1.jpg',
+        thumbnail: '../../public/assets/assets/1.jpg',
     },
     {
         original: 'assets/2.jpg',
