@@ -19,35 +19,35 @@ export default Gallery;
 
 const images = [
     {
-        original: 'img/Gallery/1.jpg',
-        thumbnail: 'img/Gallery/1.jpg',
+        original: 'img/About/1.jpg',
+        thumbnail: 'img/About/1.jpg',
     },
     {
-        original: 'img/Gallery/2.jpg',
-        thumbnail: 'img/Gallery/2.jpg',
+        original: 'img/About/2.jpg',
+        thumbnail: 'img/About/2.jpg',
     },
     {
-        original: 'img/Gallery/3.jpg',
-        thumbnail: 'img/Gallery/3.jpg',
+        original: 'img/About/3.jpg',
+        thumbnail: 'img/About/3.jpg',
     },
     {
-        original: 'img/Gallery/4.jpg',
-        thumbnail: 'img/Gallery/4.jpg',
+        original: 'img/About/4.jpg',
+        thumbnail: 'img/About/4.jpg',
     },
     {
-        original: 'img/Gallery/5.jpg',
-        thumbnail: 'img/Gallery/5.jpg',
+        original: 'img/About/5.jpg',
+        thumbnail: 'img/About/5.jpg',
     },
     {
-        original: 'img/Gallery/6.jpg',
-        thumbnail: 'img/Gallery/6.jpg',
+        original: 'img/About/6.jpg',
+        thumbnail: 'img/About/6.jpg',
     },
     {
-        original: 'img/Gallery/7.jpg',
-        thumbnail: 'img/Gallery/7.jpg',
+        original: 'img/About/7.jpg',
+        thumbnail: 'img/About/7.jpg',
     },
     {
-        original: 'img/Gallery/8.jpg',
-        thumbnail: 'img/Gallery/8.jpg',
+        original: 'img/About/8.jpg',
+        thumbnail: 'img/About/8.jpg',
     },
 ];
